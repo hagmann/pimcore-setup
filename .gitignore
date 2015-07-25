@@ -27,6 +27,7 @@
 
 # build files
 /var/build/*
+!/var/build/pimcore-distribution.zip
 
 # composer
 /vendor/*
